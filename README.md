@@ -4,6 +4,8 @@ The main purpose of this extension is to create, modify or delete groups of tabs
 series of tabs and then store the URLs in somewhere, so you can close them, saving memory and processing, since these
 tabs are not open. At any time, you can open just one tab or the group of stored tabs.
 
+This line is added to check if security pipelines don't trigger when a non-src file is changed
+
 ## Introduction
 
 ### What makes this extension different?
